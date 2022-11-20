@@ -1,0 +1,7 @@
+wheel
+jieba
+jieba3k
+jupyter-book
+wordcloud
+gensim
+pyLDAvis
