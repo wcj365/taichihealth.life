@@ -3,4 +3,6 @@ root: index
 chapters:
 - file: 01_about
 - file: '02'
+- file: '90'
+- file: '99'
 
