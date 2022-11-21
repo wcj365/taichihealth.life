@@ -1,5 +1,5 @@
 title: 德奇太极
-author: <a href="mailto:wcj365@gmail.com" target="_blank">International Center for Tai Chi Health</a>
+author: <a href="mailto:wcj365@gmail.com" target="_blank">International Center for Tai Chi Health (ICTCH)</a>
 email: wcj365@gmail.com
 logo: _static/images/taiji_logo.png
 copyright: "2022 国际传统太极拳健康研修中心" 
@@ -21,8 +21,8 @@ html:
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
-  extra_navbar              : <a href="https://www.youtube.com/@taiji74">油管频道</a>   # Will be displayed underneath the left navbar.
-  extra_footer              : ""  # Will be displayed underneath the footer.
+  extra_navbar              : "修太极😀享健康😀同快乐"  # Will be displayed underneath the left navbar.
+  extra_footer              : "<a href="https://www.youtube.com/@taiji74">德奇太极油管频道</a> "  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
   baseurl                   : "https://taiji.pythonanywhere.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
