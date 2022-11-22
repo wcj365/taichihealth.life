@@ -1,8 +1,8 @@
-title: 德奇太极
+title: 太极健康中心
 author: <a href="mailto:wcj365@gmail.com" target="_blank">International Center for Tai Chi Health (ICTCH)</a>
 email: wcj365@gmail.com
 logo: _static/images/taiji_logo.png
-copyright: "2022 国际传统太极拳健康研修中心" 
+copyright: "©2022 国际传统太极拳健康研修中心" 
 repository:
   url                       : https://github.com/wcj365/taiji
   path_to_book              : docs

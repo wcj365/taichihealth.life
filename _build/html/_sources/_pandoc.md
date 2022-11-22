@@ -1,5 +1,5 @@
 ---
-title: 德奇太极
+title: 太极健康中心
 author: 王超杰
 CJKmainfont: "AR PL UKai TW" 
 mainfont: "AR PL UKai TW" 
