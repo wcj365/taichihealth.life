@@ -5,6 +5,8 @@
 # We only need to retain the html subfolder for website
 # We use docs folder as the document root for setting up GitHub Pages
 
+git pull
+
 if [ -d "_build" ] 
 then
     rm -r _build 
