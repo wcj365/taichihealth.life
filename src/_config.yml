@@ -1,4 +1,4 @@
-title: 太极健康中心
+title: 太极健康中心<br>修太极😀享健康😀同快乐
 author: <a href="mailto:wcj365@gmail.com" target="_blank">International Center for Tai Chi Health (ICTCH)</a>
 email: wcj365@gmail.com
 logo: _static/images/taiji_logo.png
@@ -21,7 +21,7 @@ html:
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
-  extra_navbar              : 修太极😀享健康😀同快乐<br><a href="https://www.facebook.com/taiji74"><img src="_static/images/facebook.PNG" target="_blank" alt="facebook"></a> <a href="https://www.youtube.com/@taiji74"><img src="_static/images/youtube.png" target="_blank" alt="youtube"></a><a href="https://www.linkedin.com/company/taiji"><img src="_static/images/linkedin.PNG" target="_blank" alt="LinkedIn"></a>
+  extra_navbar              : <a href="https://www.facebook.com/taiji74"><img src="_static/images/facebook.PNG" target="_blank" alt="facebook"></a> <a href="https://www.youtube.com/@taiji74"><img src="_static/images/youtube.png" target="_blank" alt="youtube"></a><a href="https://www.linkedin.com/company/taiji"><img src="_static/images/linkedin.PNG" target="_blank" alt="LinkedIn"></a>
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
