@@ -31,10 +31,10 @@ jupyter-book build --path-output . src > jupyterbook.log
 # Step 4 - Copy the genreated website to docs folder 
 
 mkdir docs
-mkdir docs/offline            # to store pdf and epub version of the book
+# mkdir docs/offline            # to store pdf and epub version of the book
 cp -r _build/html/* ./docs/   # This is the contents of the generated website
 touch ./docs/.nojekyll        # ask GitHub Pages not to render the static website using Jekyll
-cp -r pdf ./docs/             # pdf files of academic writings
+# cp -r pdf ./docs/             # pdf files of academic writings
 
 # Step 5 - Push the changes to GitHub
 
