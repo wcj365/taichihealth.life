@@ -2,7 +2,7 @@ title: 太极健康中心
 author:
 email: wcj365@gmail.com
 logo: _static/images/taiji_logo.png
-copyright: "2022 国际传统太极拳健康研修中心" 
+copyright: "2022 国际传统太极拳健康研修中心 - 修太极😀享健康😀同快乐" 
 repository:
   url                       : https://github.com/wcj365/taiji
   path_to_book              : docs
@@ -22,7 +22,7 @@ html:
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
   extra_navbar              : <a href="https://www.facebook.com/taiji74"><img src="_static/images/facebook.PNG" target="_blank" alt="facebook"></a> <a href="https://www.youtube.com/@taiji74"><img src="_static/images/youtube.png" target="_blank" alt="youtube"></a><a href="https://www.linkedin.com/company/taiji"><img src="_static/images/linkedin.PNG" target="_blank" alt="LinkedIn"></a>
-  extra_footer              : "修太极😀享健康😀同快乐"  # Will be displayed underneath the footer.
+  extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
   baseurl                   : "https://taiji.pythonanywhere.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
