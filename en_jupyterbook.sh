@@ -17,6 +17,8 @@ then
     rm -r docs/en
 fi
 
+mkdir ./docs/en
+
 # Step 2 - Generate table of contents
 
 jupyter-book toc from-project src_en -f jb-book -s "_*.*" > src_en/_toc.yml
