@@ -2,27 +2,30 @@
 
 ![中心开幕](grand_opening.jpg)
 
-国际传统太极拳健康研修中心（International Center for Tai Chi Health）2022年10月1日在美国马里兰州正式成立并举行开业典礼！
+**International Center for Tai Chi Health (ICTCH) Offers Free Tai Chi Classes to the Public** 
 
-## 出席盛会的嘉宾有：
+Research performed by the world's top medical institutions for many years have shown that traditional Taijiquan (commonly 
+referred as Tai Chi) fairs better at preventing and treating chronic diseases than modern medicines. 
+Three hundred million people worldwide practice Tai Chi and their positive experiences are true testaments 
+to the healing power of Taijiquan.
 
-- 美国马里兰哈维郡郡长 Calvin Ball 博士
-- 美国马里兰哈维教育局理事 陆昀 博士
-- 美国马里兰哈维教育局理事 伍超 博士
-- 美国马里兰哈维郡四区理事 Deb Jung
-- 美国马里兰哈维郡前郡长 Allan Kittleman 的团队代表
+Tai Chi helps to regulate the flow of blood and Qi (vital energy), open up and align the meridians of the body, and 
+has therapeutic effects on the mind, body, and soul.  No wonder Tai Chi is the most popular and effective 
+form of exercise for prevention and healing of disease and nourishing of life.
 
-## 送来贺电的有：
+If you have never been exposed to Tai Chi, don't worry, don't hesitate, and get ready.
 
-- 陈正雷大师，陈式太极拳名家，陈式太极拳十一代嫡系传承人， 中国十大武术名师 中国武术九段 ，国家武术研究院专家委员会专家
-- 张耀庭，原中国武协主席
-- 田新得，中国武术协会副主席， 广东武术协会主席
-- 崔众三，杨氏太极拳传承人
-- 张全亮，吴式太极拳传承人
-- 张茂清，孙氏武学传人
-- 和有禄，和式太极拳传承人
-- 翟维传，武式太极拳传承
-- 张东武，太极拳传承人，东武研究院院长
-- 陈斌，中国河南省太极拳协会主席，陈式太极拳十二代嫡系传承人。
-- 赵国华，《少林与太极》主编
-- 余功保，世界太极网创办人
+The founding director of the International Center for Tai Chi Health， Master Zongqi Xie is a 12th generation descendant of 
+Chen Style Taijiquan and an in-chamber disciple of Grandmaster Zhenglei Chen. Master Xie is a 7th Duan of Chinese martial arts 
+and serves as a first-class national referee for Chinese martial arts. Master Xie has immigrated to the US and settled 
+in Howard County, Maryland via a talent acquisition program in April 2022. Master Xie has a passion to help improve 
+the health of people in communities across the county and the state using his sought-after Tai Chi know-how from 
+decades of practice and teaching. 
+
+To that end, Master Xie founded the International Center for Tai Chi Health (ICTCH) shortly after arriving in the US. 
+The center was inaugurated on October 1st 2022 attended by County Executive Dr. Calvin Ball, elected officials, 
+and medical researchers from Johns Hopkins University and University of Maryland along with dedicated 
+Tai Chi practitioners and enthusiasts.
+
+In order to bring the health benefits of Tai Chi to individuals and communities across Maryland, the center led by Master Xie 
+started the “Traditional Tai Chi for Health” Campaign in November 2022. 
