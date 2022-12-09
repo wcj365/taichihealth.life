@@ -30,7 +30,6 @@ jupyter-book build --path-output . src_en > jupyterbook_en.log
 
 # Step 4 - Copy the genreated website to docs folder 
 
-mkdir docs_en
 cp -r _build/html/* ./docs/en/   # This is the contents of the generated website
 touch ./docs/en/.nojekyll        # ask GitHub Pages not to render the static website using Jekyll
 
