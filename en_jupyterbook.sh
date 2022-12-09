@@ -12,9 +12,9 @@ then
     rm -r _build
 fi
 
-if [ -d "docs_en" ] 
+if [ -d "docs/en" ] 
 then
-    rm -r docs_en
+    rm -r docs/en
 fi
 
 # Step 2 - Generate table of contents
@@ -31,10 +31,8 @@ jupyter-book build --path-output . src_en > jupyterbook_en.log
 # Step 4 - Copy the genreated website to docs folder 
 
 mkdir docs_en
-# mkdir docs_en/offline            # to store pdf and epub version of the book
-cp -r _build/html/* ./docs_en/   # This is the contents of the generated website
-touch ./docs_en/.nojekyll        # ask GitHub Pages not to render the static website using Jekyll
-# cp -r pdf ./docs_en/             # pdf files of academic writings
+cp -r _build/html/* ./docs/en/   # This is the contents of the generated website
+touch ./docs/en/.nojekyll        # ask GitHub Pages not to render the static website using Jekyll
 
 # Step 5 - Push the changes to GitHub
 
