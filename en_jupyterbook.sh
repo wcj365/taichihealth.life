@@ -7,9 +7,9 @@
 
 git pull
 
-if [ -d "_build_en" ] 
+if [ -d "_build" ] 
 then
-    rm -r _build_en
+    rm -r _build
 fi
 
 if [ -d "docs_en" ] 
@@ -32,7 +32,7 @@ jupyter-book build --path-output . src_en > jupyterbook_en.log
 
 mkdir docs_en
 # mkdir docs_en/offline            # to store pdf and epub version of the book
-cp -r _build_en/html/* ./docs_en/   # This is the contents of the generated website
+cp -r _build/html/* ./docs_en/   # This is the contents of the generated website
 touch ./docs_en/.nojekyll        # ask GitHub Pages not to render the static website using Jekyll
 # cp -r pdf ./docs_en/             # pdf files of academic writings
 
