@@ -29,3 +29,5 @@ Tai Chi practitioners and enthusiasts.
 
 In order to bring the health benefits of Tai Chi to individuals and communities across Maryland, the center led by Master Xie 
 started the “Traditional Tai Chi for Health” Campaign in November 2022. 
+
+Please check out the free classes [here](02.md)
