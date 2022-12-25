@@ -1,7 +1,7 @@
 title: 国际传统太极拳健康研修中心
 author:
-email: wcj365@gmail.com
-logo: _static/images/taiji_logo.png
+email: taichihealth.life@gmail.com
+logo: _static/images/taiji_logo.PNG
 copyright: "2022 国际传统太极拳健康研修中心 - 修太极😀享健康😀同快乐" 
 repository:
   url                       : https://github.com/wcj365/taiji
@@ -16,7 +16,7 @@ execute:
   execute_notebooks         : force  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
 
 html:
-  favicon                   : "_static/images/taiji_logo.png"  # A path to a favicon image
+  favicon                   : ""  # A path to a favicon image
   navbar_number_sections    : false  # Add a number to each section in your left navbar
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
@@ -25,7 +25,7 @@ html:
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
-  baseurl                   : "https://taiji.pythonanywhere.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl                   : "https://taichihealth.life"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   search_bar_text           : "Search this website..."
 
 launch_buttons:
