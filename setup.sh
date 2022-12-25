@@ -24,4 +24,4 @@ sudo apt-get install -y pandoc
 
 # Step 6
 # Install required Python packages for Jupyter Book for generating HTML website
-pip install -r requirements.txt
+sudo pip install -r requirements.txt
