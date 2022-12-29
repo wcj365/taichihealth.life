@@ -5,7 +5,7 @@
 **International Center for Tai Chi Health (ICTCH) Offers Free Tai Chi Classes to the Public** 
 
 Research performed by the world's top medical institutions for many years have shown that traditional Taijiquan (commonly 
-referred as Tai Chi) fairs better at preventing and treating chronic diseases than modern medicines. 
+referred as Tai Chi) fares better at preventing and treating chronic diseases than modern medicines. 
 Three hundred million people worldwide practice Tai Chi and their positive experiences are true testaments 
 to the healing power of Taijiquan.
 
