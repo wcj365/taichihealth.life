@@ -27,7 +27,5 @@ The center was inaugurated on October 1st 2022 attended by County Executive Dr. 
 and medical researchers from Johns Hopkins University and University of Maryland along with dedicated 
 Tai Chi practitioners and enthusiasts.
 
-In order to bring the health benefits of Tai Chi to individuals and communities across Maryland, the center led by Master Xie 
-started the “Traditional Tai Chi for Health” Campaign in November 2022. 
+If you are ready to enjoy the health benefits of Tai Chi, please check out our training classes. It is never too late to learn Tai Chi for health and happiness.
 
-Please check out the free classes [here](02.md)
