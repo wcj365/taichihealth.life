@@ -27,5 +27,7 @@ The center was inaugurated on October 1st 2022 attended by County Executive Dr. 
 and medical researchers from Johns Hopkins University and University of Maryland along with dedicated 
 Tai Chi practitioners and enthusiasts.
 
-If you are ready to enjoy the health benefits of Tai Chi, please check out our training classes. It is never too late to learn Tai Chi for health and happiness.
+If you are ready to enjoy the health benefits of Tai Chi, please check out our [Tai Chi classes](02.md). 
+
+It is never too late to learn Tai Chi for health and happiness.
 
