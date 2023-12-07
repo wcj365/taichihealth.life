@@ -21,7 +21,7 @@ mkdir ./docs/en
 
 # Step 2 - Generate table of contents
 
-python -m jupyter-book toc from-project src_en -f jb-book -s "_*.*" > src_en/_toc.yml
+jupyter-book toc from-project src_en -f jb-book -s "_*.*" > src_en/_toc.yml
 
 
 # Step 3 - Build the static website for the book
