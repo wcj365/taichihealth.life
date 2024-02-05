@@ -5,6 +5,8 @@
 # We only need to retain the html subfolder for website
 # We use docs folder as the document root for setting up GitHub Pages
 
+source ../taiji74/.venv/bin/activate
+
 git pull
 
 if [ -d "_build" ] 
