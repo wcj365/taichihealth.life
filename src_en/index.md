@@ -1,4 +1,4 @@
-# Welcome to the International Traditional Tai Chi Health Research Center
+# Welcome to the International Center for Tai Chi Health
 
 
 # United in Tai Chi for Health and Joy
