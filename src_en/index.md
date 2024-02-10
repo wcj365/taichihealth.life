@@ -27,7 +27,7 @@ Chen-style Tai Chi Weapons:
 Tai Chi Health Cultivation Methods:
 
 - Qi Gathering
-- Tendon Stretching and Bone Pulling Techniques
+- Tendon Stretching and Joint Flexion Techniques
 - Silk Reeling Exercises
 - Relaxation Techniques
 - Three Purifications (Purifying Qi, Blood, and Meridians)
