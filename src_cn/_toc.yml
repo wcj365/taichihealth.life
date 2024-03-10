@@ -2,6 +2,7 @@ format: jb-book
 root: index
 chapters:
 - file: '01'
+- file: '02'
 - file: '04'
 - file: '05'
 - file: '80'
